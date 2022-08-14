@@ -4,12 +4,13 @@ import com.jsonplaceholder.domain.helper.JsonHolderService;
 import com.jsonplaceholder.domain.response.PostResponse;
 import com.jsonplaceholder.domain.response.UserResponse;
 
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
-import org.junit.Assert;
 
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import org.junit.Assert;
 import java.util.ArrayList;
+
 
 
 public class JsonSteps {
